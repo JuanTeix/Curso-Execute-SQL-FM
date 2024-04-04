@@ -1,0 +1,22 @@
+﻿Fecha y hora	Nombre de archivo	Error	Mensaje
+2024-03-27 11:36:04.253 +0100	ExecuteSQL.fmp12	0	Importación de operaciones iniciada
+2024-03-27 11:36:04.263 +0100	ExecuteSQL.fmp12	0	Importación de tablas desde el archivo “jugadores.xlsx” iniciada
+2024-03-27 11:36:04.265 +0100	jugadores	0	campos importados : 4
+2024-03-27 11:36:04.267 +0100	ExecuteSQL.fmp12	0	tablas importados : 1
+2024-03-27 11:36:04.267 +0100	ExecuteSQL.fmp12	0	Importación completada
+2024-03-27 11:36:04.278 +0100	ExecuteSQL.fmp12	0	Importación de operaciones consignada
+2024-03-27 11:36:04.280 +0100	ExecuteSQL.fmp12	0	==================================================================
+2024-03-27 11:36:47.104 +0100	ExecuteSQL.fmp12	0	Importación de operaciones iniciada
+2024-03-27 11:36:47.113 +0100	ExecuteSQL.fmp12	0	Importación de tablas desde el archivo “equipos_liga_espanola.xlsx” iniciada
+2024-03-27 11:36:47.114 +0100	equipos_liga_espanola	0	campos importados : 3
+2024-03-27 11:36:47.115 +0100	ExecuteSQL.fmp12	0	tablas importados : 1
+2024-03-27 11:36:47.115 +0100	ExecuteSQL.fmp12	0	Importación completada
+2024-03-27 11:36:47.124 +0100	ExecuteSQL.fmp12	0	Importación de operaciones consignada
+2024-03-27 11:36:47.125 +0100	ExecuteSQL.fmp12	0	==================================================================
+2024-03-27 11:37:07.259 +0100	ExecuteSQL.fmp12	0	Importación de operaciones iniciada
+2024-03-27 11:37:07.269 +0100	ExecuteSQL.fmp12	0	Importación de tablas desde el archivo “paises.xlsx” iniciada
+2024-03-27 11:37:07.271 +0100	paises	0	campos importados : 2
+2024-03-27 11:37:07.272 +0100	ExecuteSQL.fmp12	0	tablas importados : 1
+2024-03-27 11:37:07.273 +0100	ExecuteSQL.fmp12	0	Importación completada
+2024-03-27 11:37:07.282 +0100	ExecuteSQL.fmp12	0	Importación de operaciones consignada
+2024-03-27 11:37:07.282 +0100	ExecuteSQL.fmp12	0	==================================================================
